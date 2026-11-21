@@ -1,0 +1,17 @@
+{
+  "name": "js-problems-1-to-5",
+  "version": "1.0.0",
+  "description": "Beginner-friendly, fully commented solutions to JavaScript practice problems 1-5 (FizzBuzz, Count Occurrences, Reverse a Number, Temperature Classifier, Find the Largest Number).",
+  "main": "run-all.js",
+  "scripts": {
+    "start": "node run-all.js",
+    "p1": "node solutions/01-fizzbuzz.js",
+    "p2": "node solutions/02-count-occurrences.js",
+    "p3": "node solutions/03-reverse-number.js",
+    "p4": "node solutions/04-temperature-classifier.js",
+    "p5": "node solutions/05-find-largest.js"
+  },
+  "keywords": ["javascript", "beginner", "practice", "altschool"],
+  "author": "Emeka Collins Elumelu",
+  "license": "MIT"
+}
